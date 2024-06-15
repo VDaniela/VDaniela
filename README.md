@@ -26,7 +26,7 @@ I possess strong problem-solving skills, teamwork abilities, and effective commu
 <br/>  
 
 
-## Rapidfire  
+## My Current Journey and Interests in a Nutshell
 - 🔭 I’m currently working on projects that utilize data analysis to optimize healthcare processes and improve laboratory operations.  
   
 
