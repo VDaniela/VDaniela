@@ -27,13 +27,13 @@ I possess strong problem-solving skills, teamwork abilities, and effective commu
 
 
 ## My Current Journey and Interests in a Nutshell
-- 🔭 I’m currently working on projects that utilize data analysis to optimize healthcare processes and improve laboratory operations.  
+- 🔭   I analyze data and projects to make decisions that enhance people's lives and boost business performance.
   
 
 - 🌱 I’m currently learning advanced Machine Learning techniques, data visualization best practices, and the application of agile methodologies in data projects.  
   
 
-- ❓ Ask me about anything related to data analysis, project management, and biochemistry or healthcare.  
+- ❓ Ask me about anything related to data analysis, project management and healthcare.  
   
 
 - ⚡ Fun fact: I love merging my passion for science and technology to create data-driven solutions that make a real difference in people's lives.  
